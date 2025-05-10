@@ -45,4 +45,4 @@ Un rapport détaillé du projet est disponible ici :
 
 ## 👤 Auteur
 
-* **Amine Mokdadi**
+* **amn-kchr**
