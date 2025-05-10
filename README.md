@@ -45,4 +45,4 @@ Un rapport détaillé du projet est disponible ici :
 
 ## 👤 Auteur
 
-* **amn-kchr**
+* **[amn-kchr](https://github.com/amn-kchr)**
